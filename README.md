@@ -1,0 +1,1 @@
+This is a project to play rock, paper, scissors against the computer.
