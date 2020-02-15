@@ -1,0 +1,75 @@
+body {
+    background-color: #f5f4f0;
+    width: 100%;
+    height: 100%;
+}
+#container {
+    text-align: center;
+    height: 400px;
+    width: 675px;
+    margin: 0 auto;
+}
+#page-image {
+    background-image: url(/home/tylerchin92/the_odin_project/rock-paper-scissors/rock-paper-scissors-items.png);
+
+    
+}
+
+#buttons {
+    margin-left: 100px;
+    padding-top: 350px;
+}
+#rockbtn {
+    margin-right: 140px;
+
+}
+#paperbtn {
+    margin-right: 150px;
+}
+#scissorsbtn {
+    margin-right: 67px;
+}
+#round-outcome {
+    height: 200px;
+    width: 600px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: 50px auto;
+}
+#computer-score-title {
+    padding-top: 10px;
+    text-align: center;
+    height: 25px;
+    width: 299px;
+    float: right;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+}
+#your-score-title {
+    padding-top: 10px;
+    text-align: center;
+    vertical-align: center;
+    height: 25px;
+    width: 300px;
+    float: left;
+    border-bottom: solid;
+    border-right:solid;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+}
+#your-score {
+    width: 300px;
+    height: 165px;
+
+    border-right: solid;
+    border-right-width: 1px;
+    float: left;
+}
+#computer-score{
+    width: 299px;
+    height: 165px;
+
+    float: right;
+}
+}
