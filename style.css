@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 #page-image {
-    background-image: url(/home/tylerchin92/the_odin_project/rock-paper-scissors/rock-paper-scissors-items.png);
+    background-image: url(rock-paper-scissors-items.png);
 
     
 }
